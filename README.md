@@ -2,7 +2,7 @@
 
 This is the official template repository for Turing PPL Forecasting Competitions. 
 
-Each competition will have its own repository with pre-prepared data (found in the data folder) and a template report (demo_analysis.qmd) that will showcase how to load the data, perform analyses and then export results into the correct format. Any coding languages are allowed but all analyses must be reproducible by the panel. 
+Each competition will have its own repository with pre-prepared data (found in the data folder) and a template report (demo_analysis.qmd) that will showcase how to load the data, perform analyses and then export results into the correct format. There will also be a folder for any additional scripts that are required. Any coding languages are allowed but all analyses must be reproducible by the panel. 
 
 More details about the competitions and the Turing PPL Community can be found at: <https://TuringPPL.github.io>.
 
