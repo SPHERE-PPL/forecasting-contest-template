@@ -11,6 +11,8 @@ The remainder of this README will show the different sections that will usually 
 ## Introduction
 This is for setting the scene and providing details relating to the Annual Meeting and the drivers behind the competition.
 
+## Forecasting Outputs
+Need to outline the specific ask of the competition and what it means for the policies/community etc.
 
 ## Joining the Competition & Getting Started
 Here we will need details of how to fork the repo / download the data and then a brief intro to the .qmd reporting.
