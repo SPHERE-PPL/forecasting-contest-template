@@ -23,7 +23,7 @@ There will be generic rules on the website but here we will give the specific ti
 ## How to Submit
 
 ## Connect with the Community
-Each contest will be stored in its own repo within the TuringPPl organisation and we will also have a Zulip space for each. Links should be placed here and how we plan to communicate on a regular basis. 
+Each contest will be stored in its own repo within the TuringPPL organisation and we will also have a Zulip space for each. Links should be placed here and how we plan to communicate on a regular basis. 
 
 ## License
 
