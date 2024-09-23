@@ -1,6 +1,6 @@
 ---
-title: "Forecasting Demo"
-author: "Josh Tyler"
+title: "Template Report"
+author: ""
 format:
   html:
     embed-resources: true
