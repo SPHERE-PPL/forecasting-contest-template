@@ -22,8 +22,13 @@ To fork the repo, simply press the "fork" button (circled in gold in the image b
 To download the data without a github account, click the code dropdown (circled in blue in the image below) and download a zip of the data directly to your computer.
 
 ![Fork or Download](https://github.com/SPHERE-PPL/forecasting-contest-template/blob/main/contest_media/fork_button.png)
+
 ## Rules
-There will be generic rules on the website but here we will give the specific timelines for submissions and how the panel will be assessing the accuracy of the predictions.
+
+-   Any coding languages are allowed but all analyses must be reproducible by the panel.
+-   All entries must be loaded into a public Github repo.
+-   All entries must follow the submission formats outlined below.
+-   All entries must include a max 1000 word report to accompany the forecast analyses. This can be as a separate PDF/hmtl or incorporated into a quarto/jupyter notebook.
 
 ## How to Submit
 If you forked the repo, congratulations, you have already enetered the contest. We will run the [Forecast AggregatoR](https://github.com/SPHERE-PPL/Forecast-AggregatoR) the day following the close of the contest and your repo will be collated with the entries.
