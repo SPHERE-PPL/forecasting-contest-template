@@ -15,15 +15,23 @@ This is for setting the scene and providing details relating to the Annual Meeti
 Need to outline the specific ask of the contest and what it means for the policies/community etc.
 
 ## Joining the contest & Getting Started
-Here we will need details of how to fork the repo / download the data and then a brief intro to the .qmd reporting.
+In order to join the contest, you will need to fork or download the repo. 
 
+To fork the repo, simply press the "fork" button (circled in gold in the image below), which can be found at the top of this github page. Follow the instructions which will add a fork of the repo to your github account.
+
+To download the data without a github account, click the code dropdown (circled in blue in the image below) and download a zip of the data directly to your computer.
+
+![Fork or Download](https://github.com/SPHERE-PPL/forecasting-contest-template/blob/main/contest_media/fork_button.png)
 ## Rules
 There will be generic rules on the website but here we will give the specific timelines for submissions and how the panel will be assessing the accuracy of the predictions.
 
 ## How to Submit
+If you forked the repo, congratulations, you have already enetered the contest. We will run the [Forecast AggregatoR](https://github.com/SPHERE-PPL/Forecast-AggregatoR) the day following the close of the contest and your repo will be collated with the entries.
+
+If you did not fork the repo, please send an email to contest@sphere-ppl.org with a link to your public github repo where your forecast and report are stored. These will then be collated with the other entries.
 
 ## Connect with the Community
-Each contest will be stored in its own repo within the SPHERE-PPL organisation and we will also have a Zulip space for each. Links should be placed here and how we plan to communicate on a regular basis. 
+You can join our Zulip [here](https://sphereppl.zulipchat.com/join/olwtpi7g3wbyh5mxv4uwipaw/) and check out our events page to see the next online catch-up.
 
 ## License
 
